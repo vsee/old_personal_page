@@ -3,6 +3,8 @@
 It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll)
 into a static site whenever I push this repository to GitHub.
 
+The template is based on [Indigo](https://github.com/sergiokopplin/indigo) by Sérgio A. Kopplin
+
 # License
 
 The following directories and their contents are Copyright Volker Seeker. You
