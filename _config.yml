@@ -1,6 +1,6 @@
 # main text of home
 name: Volker Seeker
-bio: If a listener nods his head when you're explaining your program, wake him up. Alan Perlis
+bio: If a listener nods his head when you're explaining your program, wake him up.<br>Alan Perlis
 
 # twitter summary info
 description: Volker Seeker's personal page
@@ -14,7 +14,7 @@ picture: assets/images/profile.png
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: cv/resume.pdf
+resume-url: docs/cv/resume.pdf
 
 url: http://vsee.github.io
 
