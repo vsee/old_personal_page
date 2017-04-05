@@ -5,33 +5,81 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p style="text-align: center;">
-I am currently wrapping up my Phd at the University of Edinburgh and
-looking for the next big adventure. If you are looking for computer scientists or engineers, check out my <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a> and let me know.
+I just finished my Phd at the University of Edinburgh and I am currently working as a Research Associate for Lancaster University. The Lancaster project will end soon so I am **actively looking for a new position**. If you are in need of a computer scientist / engineer, check out my <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a> and let me know.
 </p>
 
 ---
 
 # Computer Science Interests
 
-* machine learning
-* compiler optimisation
-* embedded systems
 * mobile systems
-* system simulation
+* machine learning
+* embedded systems
 * energy efficient computing
+* system simulation
+* compiler optimisation
+* OpenCL
+
+Have a look at my [github profile](https://github.com/vsee) to see some of my latest work. 
+I am in the middle of a transfer from bitbucket to github, so there will be more to see 
+very soon.
 
 ---
 
 # Phd
 ### User Experience Driven CPU Frequency Scaling on Mobile Devices Towards Better Energy Efficiency
 
-brief description of topic 
-link to abstract
-link to thesis
+In this work I analysed how interactive Android workloads can automatically be captured, replayed and benchmarked for user experience. I applied the resulting methodology to analyse standard DVFS governors and implemented an improved governor using reinforcement learning.
+
+Have a look at the [abstract](/docs/thesis/abstract.pdf) or the [lay summary](/docs/thesis/laysummary.pdf) for more details. The full thesis will also be online soon.
 
 ---
 
-# Non-Engineering Interests
+# Publications
 
-Martial Arts
-HIAA some picture
+**BEST PAPER AWARD*** Volker Seeker, Pavlos Petoumenos, Hugh Leather and Bjo&#776;rn Franke.
+*&#8220;Measuring QoE of Interactive Workloads and Characterising Frequency Governors on Mobile Devices.&#8221;* In Proceedings of the 2014 IEEE International Symposium on Workload Characterization, Raleigh, North Carolina, USA, October 2014.
+
+<a href="/docs/papers/measuring_qoe_IISWC2014.pdf">paper</a> \| 
+<a href="/docs/papers/2014_IISWC.pdf">presentation</a> \|
+<a href="https://www.dropbox.com/s/ze7uiz8rggm0as1/sample_workload.avi?dl=0">video for presentation - sample workload</a> \| <a href="https://www.dropbox.com/s/r4tbe3j57j56z4h/auto_replay.avi?dl=0">video for presentation - auto replay</a>
+
+
+Oscar Almer, Igor Bo&#776;hm, Tobias J.K. Edler von Koch, Bjo&#776;rn Franke, Stephen Kyle, Volker Seeker, Christopher Thompson, and Nigel Topham. *&#8220;A Parallel Dynamic Binary Translator for Efficient Multi-Core Simulation.&#8221;* Published in the International Journal of Parallel Programming (IJPP'12).
+
+<a href="http://link.springer.com/article/10.1007/s10766-012-0222-9">paper</a>
+
+Oscar Almer, Igor Bo&#776;hm, Tobias J.K. Edler von Koch, Bjo&#776;rn Franke, Stephen Kyle, Volker Seeker, Christopher Thompson, and Nigel Topham. *&#8220;Scalable Multi-Core Simulation Using Parallel Dynamic Binary Translation.&#8221;* Proceedings of the 11th International Conference on Embedded Computer Systems: Architectures, Modelling, and Simulation (SAMOS'2011), Samos, Greece, July 2011.
+
+<a href="http://groups.inf.ed.ac.uk/pasta/pub_IJPP_2012_MULTI_CORE_DBT.html">paper</a>
+
+---
+
+# Documents and Presentations 
+
+December 2013, <a href="/docs/projects/linux_scheduler_v3_1.pdf"> *&#8220;Linux Scheduler v.3.1 Notes&#8221;*</a>, <br> created on behalf of [Critical Blue](https://criticalblue.com/)
+
+December 2013, <a href="/docs/projects/linux_scheduler.pdf"> *&#8220;Linux Process Scheduling&#8221;*</a>, <br> created on behalf of [Critical Blue](https://criticalblue.com/)
+
+---
+
+# Awards
+
+In October 2014 I won the **Best Paper Award** for my publication <a href="/docs/papers/measuring_qoe_IISWC2014.pdf"> *&#8220;Measuring QoE of Interactive Workloads and Characterising Frequency Governors on Mobile Devices.&#8221;*</a> at the <a href="http://www.iiswc.org/iiswc2014/index.html">IISWC</a> conference in Raleigh, North Carolina, USA.
+
+<div class="side-by-side">
+    <div class="toleft">
+<p>						        
+In September 2011 I won the **Science Engineering & Technology Award (SET Award)** in the category Best Information Technology Student 2011 for my contribution: *Simulator for an Embedded Multi-Core Architecture*
+
+This award was presented in the Millenium Hotel in Lodon by Andy Green, CEO of <a href="http://www.logica.com/">logica</a>.
+        </p>
+    </div>
+
+    <div class="toright">
+        <img class="image" src="/assets/images/Andy_Green_Volker_Seeker_SET_Awards_Logica.jpg" alt="Set Award 2011">
+        <figcaption class="caption">Set Award 2011</figcaption>
+    </div>
+</div>
+
+
