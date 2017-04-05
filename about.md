@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p style="text-align: center;">
-I just finished my Phd at the University of Edinburgh and I am currently working as a Research Associate for Lancaster University. The Lancaster project will end soon so I am **actively looking for a new position**. If you are in need of a computer scientist / engineer, check out my <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a> and let me know.
+I just finished my Phd at the University of Edinburgh and I am currently working as a Research Associate for Lancaster University. The Lancaster project will end soon so I am <strong>actively looking for a new position</strong>. If you are in need of a computer scientist / engineer, check out my <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a> and let me know.
 </p>
 
 ---
@@ -33,11 +33,14 @@ In this work I analysed how interactive Android workloads can automatically be c
 
 Have a look at the [abstract](/docs/thesis/abstract.pdf) or the [lay summary](/docs/thesis/laysummary.pdf) for more details. The full thesis will also be online soon.
 
+<img class="image" style="width:80%" src="/assets/images/algov_highlevel.png" alt="Reinforcement Learning Based CPU Frequency Governor">
+<figcaption class="caption">Reinforcement Learning Based CPU Frequency Governor</figcaption>
+
 ---
 
 # Publications
 
-**BEST PAPER AWARD*** Volker Seeker, Pavlos Petoumenos, Hugh Leather and Bjo&#776;rn Franke.
+**BEST PAPER AWARD** Volker Seeker, Pavlos Petoumenos, Hugh Leather and Bjo&#776;rn Franke.
 *&#8220;Measuring QoE of Interactive Workloads and Characterising Frequency Governors on Mobile Devices.&#8221;* In Proceedings of the 2014 IEEE International Symposium on Workload Characterization, Raleigh, North Carolina, USA, October 2014.
 
 <a href="/docs/papers/measuring_qoe_IISWC2014.pdf">paper</a> \| 
@@ -66,20 +69,10 @@ December 2013, <a href="/docs/projects/linux_scheduler.pdf"> *&#8220;Linux Proce
 # Awards
 
 In October 2014 I won the **Best Paper Award** for my publication <a href="/docs/papers/measuring_qoe_IISWC2014.pdf"> *&#8220;Measuring QoE of Interactive Workloads and Characterising Frequency Governors on Mobile Devices.&#8221;*</a> at the <a href="http://www.iiswc.org/iiswc2014/index.html">IISWC</a> conference in Raleigh, North Carolina, USA.
-
-<div class="side-by-side">
-    <div class="toleft">
-<p>						        
+					        
 In September 2011 I won the **Science Engineering & Technology Award (SET Award)** in the category Best Information Technology Student 2011 for my contribution: *Simulator for an Embedded Multi-Core Architecture*
 
 This award was presented in the Millenium Hotel in Lodon by Andy Green, CEO of <a href="http://www.logica.com/">logica</a>.
-        </p>
-    </div>
 
-    <div class="toright">
-        <img class="image" src="/assets/images/Andy_Green_Volker_Seeker_SET_Awards_Logica.jpg" alt="Set Award 2011">
-        <figcaption class="caption">Set Award 2011</figcaption>
-    </div>
-</div>
-
+![](/assets/images/Andy_Green_Volker_Seeker_SET_Awards_Logica.jpg)
 
