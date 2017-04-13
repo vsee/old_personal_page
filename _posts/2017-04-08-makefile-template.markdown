@@ -22,4 +22,4 @@ There is a [gradle package for native projects](https://docs.gradle.org/current/
 A drawback of the makefile template mentioned above is that it does not support out-of-source builds with multiple sublevel folders in the source directory. [This post](http://stackoverflow.com/a/39033569) provides one that does.
 
 **UPDATE: 13.04.2017**
-I adapted the [TimF's](http://stackoverflow.com/users/6413048/timf) makefile a bit and set up a [project template](https://github.com/vsee/makeTemplateOutOfSource) on github.
+I adapted [TimF's](http://stackoverflow.com/users/6413048/timf) makefile a bit and set up a [project template](https://github.com/vsee/makeTemplateOutOfSource) on github.
