@@ -49,11 +49,11 @@ Have a look at the [abstract](/docs/thesis/abstract.pdf) or the [lay summary](/d
 
 Oscar Almer, Igor Bo&#776;hm, Tobias J.K. Edler von Koch, Bjo&#776;rn Franke, Stephen Kyle, Volker Seeker, Christopher Thompson, and Nigel Topham. *&#8220;A Parallel Dynamic Binary Translator for Efficient Multi-Core Simulation.&#8221;* Published in the International Journal of Parallel Programming (IJPP'12).
 
-<a href="http://link.springer.com/article/10.1007/s10766-012-0222-9">paper</a>
+<a href="/docs/papers/IJPP12_DBT_MULTI.pdf">paper</a>
 
 Oscar Almer, Igor Bo&#776;hm, Tobias J.K. Edler von Koch, Bjo&#776;rn Franke, Stephen Kyle, Volker Seeker, Christopher Thompson, and Nigel Topham. *&#8220;Scalable Multi-Core Simulation Using Parallel Dynamic Binary Translation.&#8221;* Proceedings of the 11th International Conference on Embedded Computer Systems: Architectures, Modelling, and Simulation (SAMOS'2011), Samos, Greece, July 2011.
 
-<a href="http://groups.inf.ed.ac.uk/pasta/pub_IJPP_2012_MULTI_CORE_DBT.html">paper</a>
+<a href="/docs/papers/SAMOS11_ISS_MULTI.pdf">paper</a>
 
 ---
 
