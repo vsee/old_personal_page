@@ -4,12 +4,6 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p style="text-align: center;">
-I just finished my Phd at the University of Edinburgh and I am currently working as a Research Associate for Lancaster University. The Lancaster project will end soon so I am <strong>actively looking for a new position</strong>. If you are in need of a computer scientist / engineer, check out my <a class="link" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Résumé</a> and let me know.
-</p>
-
----
-
 # Computer Science Interests
 
 * mobile systems
