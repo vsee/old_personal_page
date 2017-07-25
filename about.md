@@ -14,8 +14,6 @@ layout: page
 * data analysis
 
 Have a look at my [github profile](https://github.com/vsee) to see some of my latest work. 
-I am in the middle of a transfer from bitbucket to github, so there will be more to see 
-very soon.
 
 ---
 
